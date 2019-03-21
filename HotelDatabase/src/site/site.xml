@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<site>
+  <bannerLeft>
+    <name>Hotel Database</name>
+  </bannerLeft>
+  <body>
+    <links>
+      <item name="Maven" href="http://maven.apache.org/"/>
+      <item name="Apache" href="http://www.apache.org/" />
+    </links>
+
+    <menu name="The Hotel Database project">
+      <item name="Vision Statement" href="/vision-statement.html"/>
+      <item name="Best Practices" href="/best-practices.html"/>
+      <item name="FAQs" href="/faqs.html"/>
+    </menu>
+
+    ${reports}
+
+  </body>
+</site>
